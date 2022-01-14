@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(243, 243, 159);
+    background-image: url("backgroundtwenty.jpeg");
+    background-size: cover;
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+#countdown_twenty {
+    font-size: 100px;
+    color: black;
+    padding: 0%;
+}
